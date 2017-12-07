@@ -5,3 +5,4 @@ read -sp 'Password: ' passvar
 echo "Hello world"
 echo Thankyou $uservar we now have your login details
 echo "Are you a good student?"
+echo "Hello Eoin"
